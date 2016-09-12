@@ -1,5 +1,5 @@
 # test1
-hello
-buyer
-left
+hello--привет
+buyer--покупатель
+left--лево
 right
